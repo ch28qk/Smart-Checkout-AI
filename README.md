@@ -34,7 +34,7 @@ Smart-Checkout-AI/
 🚀 Установка и запуск
 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/ch28qk/Smart-Checkout-AI.git](https://github.com/ch28qk/Smart-Checkout-AI.git)
+git clone https://github.com/ch28qk/Smart-Checkout-AI.git
 cd Smart-Checkout-AI
 ```
 2. Установите зависимости:
@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
 ## 📸 Примеры работы
 Ниже показано, как модель детектирует объекты (яблоки, лимоны, яйца):
 
@@ -71,3 +72,4 @@ python main.py
 
 ## 🤝 Контакты
 **Автор:** [ch28qk](https://github.com/ch28qk)
+
